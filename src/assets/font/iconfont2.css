@@ -1,0 +1,125 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4616094 */
+  src: url('iconfont.woff2?t=1720590028913') format('woff2'),
+       url('iconfont.woff?t=1720590028913') format('woff'),
+       url('iconfont.ttf?t=1720590028913') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-r-bottom:before {
+  content: "\e623";
+}
+
+.icon-r-left:before {
+  content: "\e618";
+}
+
+.icon-r-top:before {
+  content: "\e63b";
+}
+
+.icon-r-no:before {
+  content: "\e624";
+}
+
+.icon-r-refresh:before {
+  content: "\e631";
+}
+
+.icon-r-yes:before {
+  content: "\e633";
+}
+
+.icon-r-building:before {
+  content: "\e62c";
+}
+
+.icon-r-team:before {
+  content: "\e63d";
+}
+
+.icon-r-right:before {
+  content: "\e620";
+}
+
+.icon-r-find:before {
+  content: "\e63c";
+}
+
+.icon-r-add:before {
+  content: "\e621";
+}
+
+.icon-r-edit:before {
+  content: "\e625";
+}
+
+.icon-r-user2:before {
+  content: "\e62b";
+}
+
+.icon-r-delete:before {
+  content: "\e624";
+}
+
+.icon-r-lock:before {
+  content: "\e62a";
+}
+
+.icon-r-paper:before {
+  content: "\e61e";
+}
+
+.icon-r-setting:before {
+  content: "\e62c";
+}
+
+.icon-r-list:before {
+  content: "\e639";
+}
+
+.icon-r-home:before {
+  content: "\e61a";
+}
+
+.icon-r-shield:before {
+  content: "\e61a";
+}
+
+.icon-r-user3:before {
+  content: "\e616";
+}
+
+.icon-r-mark1:before {
+  content: "\e632";
+}
+
+.icon-r-user1:before {
+  content: "\e616";
+}
+
+.icon-r-love:before {
+  content: "\e638";
+}
+
+.icon-r-mark2:before {
+  content: "\e638";
+}
+
+.icon-r-mark3:before {
+  content: "\e638";
+}
+
+.icon-r-mark4:before {
+  content: "\e638";
+}
+
+
